@@ -722,7 +722,7 @@ input[type='checkbox'] {
 	padding: 0px;
 	overflow-x: hidden;
 	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('../images/header-background.jpg') no-repeat 0 0;
-        background-size: auto;
+	background-size: cover;
 }
 
 .header .header-content {
